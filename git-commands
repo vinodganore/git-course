@@ -1,0 +1,73 @@
+PS E:\Workspaces\git-course> history
+
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\vinodganore\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\...
+   2 git init
+   3 ls
+   4 ls -a
+   5 ls a
+   6 ls
+   7 ls
+   8 ls -l
+   9 ls
+  10 ls
+  11 git status
+  12 git commit -m "my first git commit "
+  13 git status
+  14 git commit -a -m "my first git commit "
+  15 git status
+  16 git add .
+  17 git status
+  18 git commit -m "my first git commit "
+  19 git status
+  20 git remote add origin  git@github.com:vinodganore/git-course.git
+  21 git status
+  22 git push -u origin master
+  23 git status
+  24 git add .
+  25 git status
+  26 git push origin master
+  27 git status
+  28 git commit -m "service detatils added"
+  29 git push origin master
+  30 git remote -v
+  31 git status
+  32 git tag v1.0 -m " Release 1st version of code"
+  33 git tag
+  34 git push origin v1.0
+  35 git status
+  36 git add .
+  37 git commit -m "credentials added"
+  38 git push -u origin master
+  39 git tag v1.1 -m "1.1 release happening"
+  40 git tag
+  41 git push origin v1.1
+  42 git status
+  43 git commit -a -m "pwd changed"
+  44 git tag v1.2 -m "creds updated in new release v1.2"
+  45 git tag
+  46 git push origin v1.2
+  47 git status
+  48 git push origin master
+  49 git log
+  50 git branch
+  51 git branch -a
+  52 git checkout -b SNAPSHOT_V1.0
+  53 git status
+  54 git push origin SNAPSHOT_V1.0
+  55 git log --pretty=oneline
+  56 git remote origin -v
+  57 git remote -v
+  58 git branch -a
+  59 git switch master
+  60 git switch SNAPSHOT_V1.0
+  61 git switch -C feature2
+  62 git log
+  63 git show master
+  64 git show 6e78672a4edf4b6173c9f375bb0a67494c6bbac6
+  65 git switch SNAPSHOT_V1.0
+  66 git branch -all
+  67 git branch --all
+  68 git branch -D feature2
+  69 git branch --all
